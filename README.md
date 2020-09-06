@@ -1,7 +1,7 @@
 # github
 This repository consists of useful git operations and related operations related to git
 
-#Set the username of the git as global:
+# Set the username of the git as global:
 $git config --global user.name "user.name"
 
 View the username of the git:
