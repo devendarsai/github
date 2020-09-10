@@ -26,4 +26,13 @@ This repository consists of useful git operations and related operations related
 - Verify the new upstream repository you've specified for your fork.  
       $ git remote -v  
       origin  https://github.com/in28minutes/MavenIn28Minutes.git (fetch)  
-      origin  https://github.com/in28minutes/MavenIn28Minutes.git (push)  
+      
+- To add the files to stage:
+	git add filename
+
+- To committ the changes in the stage area
+	git -m "message"
+- To make the changes to central repository i.e., github.com on internet.
+	git push
+- To know the status of git in local repository
+	git status
