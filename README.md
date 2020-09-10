@@ -36,3 +36,10 @@ This repository consists of useful git operations and related operations related
 	git push
 - To know the status of git in local repository
 	git status
+- To know the branhes 
+	git branch
+- To create a new branch
+	git branch ranchname
+- To switch to a branch
+	git checkout branchnametoswitch
+
